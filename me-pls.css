@@ -1,20 +1,7 @@
-.lesson {
-    background-color: lemonchiffon;
+body {
+    background-color: rgb(26, 106, 159);
   }
-  
-  .title {
-    color: darkblue;
-  }
-  
-  #email {
-    background-color: goldenrod;
-  }
-  
-  #github {
-    background-color: lightsteelblue;
-  }
-  
-  #portfolio {
-    background-color: darkorange;
-  }
+.title {
+    text-align: center;
+}
   
